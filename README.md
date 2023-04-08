@@ -1,2 +1,2 @@
 # metacrafters_assessment
-begginer level
+beginner level
